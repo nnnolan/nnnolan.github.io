@@ -1,0 +1,34 @@
+.container {
+    margin: auto;
+    max-width: 500px;
+    font-family: sans-serif;
+  }
+
+  .heading {
+    color: #16abcb
+    ;
+  }
+  .nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+  }
+  .nav-link-item {
+    padding-right: 2rem;
+  }
+  .nav-link-text {
+    color: black;
+    
+  }
+.nav-link-text:hover {
+    color: #16abcb
+    ;
+}
+
+.site-title {
+  font-size: 3rem;
+  color: gray;
+  font-weight: 700;
+  margin: 3rem 0;
+}
+a:visited { text-decoration: none; color: #16abcb }
